@@ -1,0 +1,118 @@
+.title
+{
+   
+    background-color:black;
+    color: blueviolet;
+}
+
+h1
+{
+    margin-left: 15px;
+}
+
+h2
+{
+    text-align: center;
+    
+}
+
+.pageTitle
+{
+   background-color: rgb(251, 253, 253);
+   color: black;
+   border-bottom: 10px, double, solid black;
+
+  
+}
+
+.card
+{
+    margin-left: 10px;
+    height: fit-content;
+    width: fit-content;
+}
+
+.aboutMeText
+{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.email
+{
+   margin-left: 10px; 
+}
+
+.message
+{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.card-title
+{
+    color: blueviolet;
+   
+}
+
+.contactForm
+{
+    text-align: center;
+   background-color: rgb(211, 211, 212);
+
+   margin-left: 35%;
+   margin-right: 35%;
+   padding-top: 10px;
+   padding-bottom: 10px;
+
+}
+
+.card-body
+{
+    background-color: black;
+    text-align: center;
+}
+
+.card-text
+{
+    color: white;
+}
+
+.job
+{
+    color: gray;
+}
+
+.icons
+{
+    text-align: center;
+
+}
+.linkedinIcon
+{
+    padding-top: 10px;
+    width: 50px;
+    height: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
